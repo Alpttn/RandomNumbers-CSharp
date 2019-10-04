@@ -1,0 +1,11 @@
+C:\Users\allis\workspace\CSharp\book1\exercises\listsPracticeRandomNumbers\bin\Debug\netcoreapp3.0\listsPracticeRandomNumbers.exe
+C:\Users\allis\workspace\CSharp\book1\exercises\listsPracticeRandomNumbers\bin\Debug\netcoreapp3.0\listsPracticeRandomNumbers.deps.json
+C:\Users\allis\workspace\CSharp\book1\exercises\listsPracticeRandomNumbers\bin\Debug\netcoreapp3.0\listsPracticeRandomNumbers.runtimeconfig.json
+C:\Users\allis\workspace\CSharp\book1\exercises\listsPracticeRandomNumbers\bin\Debug\netcoreapp3.0\listsPracticeRandomNumbers.runtimeconfig.dev.json
+C:\Users\allis\workspace\CSharp\book1\exercises\listsPracticeRandomNumbers\bin\Debug\netcoreapp3.0\listsPracticeRandomNumbers.dll
+C:\Users\allis\workspace\CSharp\book1\exercises\listsPracticeRandomNumbers\bin\Debug\netcoreapp3.0\listsPracticeRandomNumbers.pdb
+C:\Users\allis\workspace\CSharp\book1\exercises\listsPracticeRandomNumbers\obj\Debug\netcoreapp3.0\listsPracticeRandomNumbers.csprojAssemblyReference.cache
+C:\Users\allis\workspace\CSharp\book1\exercises\listsPracticeRandomNumbers\obj\Debug\netcoreapp3.0\listsPracticeRandomNumbers.AssemblyInfoInputs.cache
+C:\Users\allis\workspace\CSharp\book1\exercises\listsPracticeRandomNumbers\obj\Debug\netcoreapp3.0\listsPracticeRandomNumbers.AssemblyInfo.cs
+C:\Users\allis\workspace\CSharp\book1\exercises\listsPracticeRandomNumbers\obj\Debug\netcoreapp3.0\listsPracticeRandomNumbers.dll
+C:\Users\allis\workspace\CSharp\book1\exercises\listsPracticeRandomNumbers\obj\Debug\netcoreapp3.0\listsPracticeRandomNumbers.pdb
